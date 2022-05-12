@@ -317,8 +317,9 @@ h3 {
 }
 .card-artical {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+  gap: 30px;
   margin: 0px 100px 100px 100px;
 }
 .single-card {
