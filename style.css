@@ -51,6 +51,7 @@ header {
 }
 button {
   border: none;
+  border-radius: 10px;
 }
 .btn {
   margin-left: 25px;
@@ -59,7 +60,7 @@ button {
   padding: 9px 25px;
   background-color: rgb(39, 39, 235);
   color: azure;
-  border-radius: 50px;
+  border-radius: 10px;
   cursor: pointer;
   transition: all 0.3s ease 0s;
 }
@@ -72,7 +73,7 @@ button {
   background-color: #eef2fb;
 }
 .left {
-  padding: 200px 10px 200px 200px;
+  padding: 200px 50px 20px 100px;
   line-height: 50px;
 }
 .text-highlight {
@@ -113,8 +114,8 @@ button {
 .popular_job {
   width: 100%;
   height: auto;
-  margin: 80px 0;
-  padding: 100px;
+  margin: 50px 0;
+  padding: 50px;
 }
 .popular_job .title {
   text-align: center;
@@ -153,6 +154,7 @@ button {
 }
 .accounting .logo i {
   background-color: rgb(187, 208, 246);
+  color: rgba(44, 44, 237, 0.899);
   padding: 10px;
   border-radius: 5px;
 }
