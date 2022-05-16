@@ -172,7 +172,7 @@ button {
 
 .bookmark {
   margin-left: 420px;
-  margin-top: -220px;
+  margin-top: -290px;
 }
 .icon_group {
   margin: 10px 0 0 0;
@@ -243,6 +243,13 @@ button {
   opacity: 70%;
   transition: all 0.3s ease 0s;
 }
+.card2{
+  background-color: white;
+  padding: 20px;
+  text-align: justify;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgb(229, 224, 224);
+}
 .card:hover {
   background-color: white;
   opacity: 100%;
@@ -263,7 +270,8 @@ button {
 /* Customer review end */
 
 .sponsor {
-  padding: 60px;
+  padding: 30px;
+  margin: 10px 60px;
   text-align: center;
 }
 /* Sponsor end */
@@ -303,7 +311,7 @@ button {
   justify-content: space-between;
   align-items: center;
   text-align: center;
-  margin: -50px 20px 100px 100px;
+  margin: 0px 20px 100px 100px;
 }
 .counter .active h1 {
   font-size: 40px;
@@ -355,7 +363,7 @@ h3 {
 }
 .left-content {
   padding: 35px;
-  line-height: 50px;
+  line-height: 40px;
   width: 70%;
 }
 .right-content img{
